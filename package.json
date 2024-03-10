@@ -1,0 +1,24 @@
+{
+  "name": "nocover-publisher",
+  "version": "1.0.0",
+  "description": "Non-overlay publishing for single-page applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yolomoth",
+  "license": "MIT",
+  "keywords": [
+    "nocover",
+    "publish",
+    "xftp",
+    "static"
+  ],
+  "dependencies": {
+    "ssh2-sftp-client": "^5.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yolomoth/nocover-publisher.git"
+  }
+}
